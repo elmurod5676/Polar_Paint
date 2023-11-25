@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MusorPaint\MusorPaint\bin\Release\MusorPaint.exe.config
+C:\Users\User\source\repos\MusorPaint\MusorPaint\bin\Release\MusorPaint.exe
+C:\Users\User\source\repos\MusorPaint\MusorPaint\bin\Release\MusorPaint.pdb
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.Form1.resources
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.Properties.Resources.resources
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.exe
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.pdb
+C:\Users\User\source\repos\MusorPaint\MusorPaint\obj\Release\MusorPaint.Loading_screen.resources
